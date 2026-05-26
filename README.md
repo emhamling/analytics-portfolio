@@ -31,7 +31,7 @@ Python • SQL • Power BI • Excel • Pandas • Selenium • Data Wrangling
 
 # Featured Projects
 
-## 🎵 [Billboard & Spotify Music Analytics](./Billboard-Spotify-Project)
+## 🎵 [Billboard & Spotify Music Analytics](./spotify-billboard-analysis)
 
 Python-based analytics project combining Billboard Hot 100 web scraped data with Spotify datasets to explore the characteristics of hit songs and streaming popularity trends.
 
@@ -45,7 +45,7 @@ Python-based analytics project combining Billboard Hot 100 web scraped data with
 
 ---
 
-## 📊 [Winnebago Connect Dashboard](./Winnebago-Connect-Dashboard)
+## 📊 [Winnebago Connect Dashboard](./winnebago-dashboard)
 
 Power BI dashboard project using telemetry data to analyze customer behavior, camping activity, travel trends, power usage, alerts, and feature engagement.
 
@@ -59,7 +59,7 @@ Power BI dashboard project using telemetry data to analyze customer behavior, ca
 
 ---
 
-## 🏥 [Healthcare Analytics & Operations](./Healthcare-Analytics)
+## 🏥 [Healthcare Analytics & Operations]
 
 Healthcare-focused analytics and operations experience connected to reporting, financial processes, workflow support, and data-informed decision-making.
 
@@ -73,7 +73,7 @@ Healthcare-focused analytics and operations experience connected to reporting, f
 
 ---
 
-## ⚽ [Sports Facilities & Operations Analysis](./Sports-Facilities-Analysis)
+## ⚽ [Sports Facilities & Operations Analysis](./trine-facilities-analysis)
 
 Sports business project evaluating athletic facilities, operational strategy, infrastructure usage, and improvement opportunities.
 
@@ -87,7 +87,7 @@ Sports business project evaluating athletic facilities, operational strategy, in
 
 ---
 
-## 📣 [Corporate Social Responsibility Campaign Proposal](./CSR-Campaign-Proposal)
+## 📣 [Corporate Social Responsibility Campaign Proposal](./csr-campaign)
 
 Strategic communications campaign supporting youth mentorship through sports organization and nonprofit partnerships.
 
@@ -101,7 +101,7 @@ Strategic communications campaign supporting youth mentorship through sports org
 
 ---
 
-## 🧹 [Data Wrangling Final Project](./Data-Wrangling-Final-Project)
+## 🧹 [Data Wrangling Final Project](./spotify-billboard-analysis)
 
 Python-based data wrangling project involving data collection, cleaning, integration, analysis, modeling, and visualization.
 
@@ -148,9 +148,8 @@ Sport and Recreation Management
 
 # Connect With Me
 
-**LinkedIn:** [Add your LinkedIn link here]  
+**LinkedIn:** [https://www.linkedin.com/in/emilyhamling]  
 **GitHub:** [github.com/emhamling](https://github.com/emhamling)
 
 ---
 
-![Emily's GitHub stats](https://github-readme-stats.vercel.app/api?username=emhamling&show_icons=true)
