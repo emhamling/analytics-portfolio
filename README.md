@@ -59,7 +59,7 @@ Power BI dashboard project using telemetry data to analyze customer behavior, ca
 
 ---
 
-## 🏥 [Healthcare Analytics & Operations]
+## 🏥 Healthcare Analytics & Operations
 
 Healthcare-focused analytics and operations experience connected to reporting, financial processes, workflow support, and data-informed decision-making.
 
