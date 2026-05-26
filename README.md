@@ -1,36 +1,156 @@
 # analytics-portfolio
 # Emily Hamling – Analytics Portfolio
 
-Business Analytics | Sports Strategy | Data Visualization | Communications
+<h3 align="center">Business Analytics | Data Visualization | Healthcare Operations | Sports Analytics</h3>
 
-Welcome to my portfolio repository. This space includes selected academic and applied projects that demonstrate my experience in analytics, dashboard development, communications strategy, sport operations, and business problem solving.
+<p align="center">
+Business Analytics graduate focused on transforming data into clear, actionable insights through dashboards, reporting, data visualization, and business storytelling.
+</p>
 
-## Featured Projects
+---
 
-### Winnebago Connect Dashboard
+## About Me
+
+I am a Business Analytics and Information Systems graduate with experience in healthcare operations, sports business, dashboard development, and strategic communications. My portfolio highlights projects that combine technical analysis, business problem solving, and clear communication for real-world decision-making.
+
+I am especially interested in data analyst, healthcare analyst, business intelligence, operations analyst, and sports analytics roles.
+
+---
+
+## Technical Skills
+
+![Python](https://img.shields.io/badge/Python-Analytics-blue?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-Data%20Management-green?style=for-the-badge&logo=mysql)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-yellow?style=for-the-badge&logo=powerbi)
+![Excel](https://img.shields.io/badge/Excel-Advanced-success?style=for-the-badge&logo=microsoftexcel)
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github)
+
+Python • SQL • Power BI • Excel • Pandas • Selenium • Data Wrangling • Data Visualization • Dashboard Design • Business Intelligence • Reporting • Machine Learning • Strategic Communications
+
+---
+
+# Featured Projects
+
+## 🎵 [Billboard & Spotify Music Analytics](./Billboard-Spotify-Project)
+
+Python-based analytics project combining Billboard Hot 100 web scraped data with Spotify datasets to explore the characteristics of hit songs and streaming popularity trends.
+
+**Key Highlights**
+- Scraped Billboard Hot 100 chart data using Python and Selenium
+- Cleaned, merged, and analyzed music datasets
+- Explored relationships between song popularity, rankings, and audio features
+- Created visualizations to communicate music trend insights
+
+**Tools Used:** Python, Pandas, Selenium, Data Visualization, Data Wrangling
+
+---
+
+## 📊 [Winnebago Connect Dashboard](./Winnebago-Connect-Dashboard)
+
 Power BI dashboard project using telemetry data to analyze customer behavior, camping activity, travel trends, power usage, alerts, and feature engagement.
 
-### Billboard and Spotify Music Analytics Project
-Python-based analysis combining web scraped Billboard chart data with Spotify datasets to explore the characteristics of hit songs.
+**Key Highlights**
+- Built interactive Power BI dashboards
+- Analyzed customer engagement and travel behavior
+- Visualized KPI trends and product usage patterns
+- Designed dashboard layouts for clear stakeholder interpretation
 
-### Corporate Social Responsibility PR Campaign Proposal
-Strategic communications campaign designed to support youth mentorship through a sports organization partnership.
+**Tools Used:** Power BI, Excel, Dashboard Design, Data Visualization
 
-### Trine University Athletics Facilities Analysis
-Facility and operations analysis evaluating NCAA Division III athletic infrastructure, usage, and improvement opportunities.
+---
 
-### Brand Audit and Analysis Project
-Strategic brand analysis focused on communication effectiveness, audience engagement, and positioning.
+## 🏥 [Healthcare Analytics & Operations](./Healthcare-Analytics)
 
-### Data Wrangling Final Project
-Python-based project involving dataset collection, integration, cleaning, modeling, and visualization.
+Healthcare-focused analytics and operations experience connected to reporting, financial processes, workflow support, and data-informed decision-making.
 
-## Skills Highlighted
-- Power BI
-- Python
-- Excel
-- Data visualization
-- Dashboard design
-- Strategic communication
-- Sports operations analysis
-- Business analytics
+**Key Highlights**
+- Supported healthcare operational and financial workflows
+- Worked with detailed reporting processes in a healthcare environment
+- Collaborated across teams to organize and interpret information
+- Applied analytics skills to improve clarity and decision support
+
+**Tools Used:** Excel, Reporting, Business Analytics, Healthcare Operations
+
+---
+
+## ⚽ [Sports Facilities & Operations Analysis](./Sports-Facilities-Analysis)
+
+Sports business project evaluating athletic facilities, operational strategy, infrastructure usage, and improvement opportunities.
+
+**Key Highlights**
+- Analyzed NCAA Division III athletic facilities
+- Evaluated infrastructure, users, and improvement opportunities
+- Developed strategic recommendations
+- Presented findings through written reports and visuals
+
+**Tools Used:** Research, Strategic Planning, Operations Analysis, Presentation Design
+
+---
+
+## 📣 [Corporate Social Responsibility Campaign Proposal](./CSR-Campaign-Proposal)
+
+Strategic communications campaign supporting youth mentorship through sports organization and nonprofit partnerships.
+
+**Key Highlights**
+- Built a campaign proposal focused on community impact
+- Created messaging, strategy, and execution recommendations
+- Connected sports organizations with nonprofit partnership goals
+- Developed presentation-ready communication materials
+
+**Tools Used:** Public Relations, Strategic Communications, Research, Campaign Planning
+
+---
+
+## 🧹 [Data Wrangling Final Project](./Data-Wrangling-Final-Project)
+
+Python-based data wrangling project involving data collection, cleaning, integration, analysis, modeling, and visualization.
+
+**Key Highlights**
+- Collected and cleaned multiple datasets
+- Performed data transformation and integration
+- Created visualizations to support analysis
+- Applied Python-based modeling and reporting techniques
+
+**Tools Used:** Python, Pandas, Data Cleaning, Data Visualization, Modeling
+
+---
+
+# Portfolio Strengths
+
+- Turning raw data into clear insights
+- Building dashboards and visual reports
+- Communicating findings to non-technical audiences
+- Combining analytics with business strategy
+- Working across healthcare, sports, and operations environments
+
+---
+
+# Education
+
+## University of Iowa
+
+**Bachelor of Business Administration**  
+Business Analytics & Information Systems
+
+**Bachelor of Science**  
+Sport and Recreation Management
+
+---
+
+# Currently Building
+
+- Healthcare analytics portfolio projects
+- Power BI dashboard examples
+- Python data visualization projects
+- Business intelligence case studies
+
+---
+
+# Connect With Me
+
+**LinkedIn:** [Add your LinkedIn link here]  
+**GitHub:** [github.com/emhamling](https://github.com/emhamling)
+
+---
+
+![Emily's GitHub stats](https://github-readme-stats.vercel.app/api?username=emhamling&show_icons=true)
